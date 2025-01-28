@@ -10,7 +10,7 @@ git clone https://github.com/filzamazahir/ClientChurnForecast.git
 ```
 Make sure to have pip installed, then do 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 Run ```telecomclientchurnforecast.ipynb```
 
