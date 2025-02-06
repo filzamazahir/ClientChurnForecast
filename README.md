@@ -1,7 +1,8 @@
 # Telecom Opereator Client Churn Forecast
 Interconnect, a telecom operator would like to forecast their churn of clients. If it’s discovered that a user is planning to leave, they will be offered promotional codes and special plan options. Their clientele’s personal data, along with their plans and contracts is used to train a model that will predict whether a client will leave or not. To do this project, all data is combined together first, then preprocessed to ensure its valid and usable for training a model. Various classification algorithms such as Decision Tree Classifier, CatBoost Classifier, and LightGBM Classifier were used.
 
-To Run
+## To Run
+
 Clone the project
 ```
 git clone https://github.com/filzamazahir/ClientChurnForecast.git
